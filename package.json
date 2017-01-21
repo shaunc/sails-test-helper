@@ -41,7 +41,7 @@
     "prompt": "^1.0.0",
     "rc": "^1.1.6",
     "sails-factory": "^0.4.0",
-    "supertest": "^2.0.1",
+    "supertest": "github:shaunc/supertest",
     "supertest-session": "^3.0.0"
   },
   "devDependencies": {
